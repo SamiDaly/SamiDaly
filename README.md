@@ -3,16 +3,19 @@
 
 ## About Me
 
-I am a Frontend Developer student passionate about building apps interactive, and real-time web applications.
+I am a Frontend Developer student passionate about building interactive and real-time web applications.
 
-I enjoy working across the stack and focusing on clean UI, API integration, and real-time features.
+I enjoy working across the stack with a strong focus on clean UI, API integration, and structured code.
+
+I also have a strong interest in AI and how it can be applied in modern web development to create smarter and more efficient applications.
 
 
 ## Tech Stack
 
 - JavaScript 
 - TypeScript 
-- React 
+- React
+- Next.js
 - Node.js 
 - Express
 
@@ -54,6 +57,7 @@ Smaller practice projects focusing on logic, functions and DOM manipulation.
 
 ## Currently Learning
 
+- Next.js
 - React deeper concepts
 - State management
 - Clean architecture
@@ -68,4 +72,6 @@ Smaller practice projects focusing on logic, functions and DOM manipulation.
 
 ## Fun Fact
 
-I enjoy building real-time applications and solving problems with clean, scalable code.
+I enjoy working full-stack, but I have a strong passion for frontend development with a focus on clean, organized and user-friendly design.
+
+I’m also very interested in AI and how it can be used in modern web applications.
