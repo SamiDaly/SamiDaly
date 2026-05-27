@@ -10,17 +10,42 @@ I enjoy working across the stack with a strong focus on clean UI, API integratio
 I also have a strong interest in AI and how it can be applied in modern web development to create smarter and more efficient applications.
 
 
-## Tech Stack
+Tech Stack
 
-- JavaScript 
-- TypeScript 
-- React
-- Next.js
-- Node.js 
-- Express
+Frontend:
+-JavaScript / TypeScript
+-React (Hooks, Components, State management)
+-Next.js (App Router, routing, dynamic routes)
+-HTML5 / CSS / SASS
+-Tailwind
+-Bootstrap
 
+Backend:
+-Node.js
+-Express
+
+Database:
+-MongoDB (endast om du faktiskt använt det i projekt)
+
+API & Tools:
+-REST APIs
+-Postman
+-WebSockets (Socket.io)
+-LocalStorage
 
 ## Featured Projects
+
+##  Fed Zoo App, Next.js / React
+Next.js application focused on API handling, state management and localStorage.
+
+Features:
+-API integration
+-LocalStorage saving
+-Animal feed button interaction
+-Time based logic handling
+-Image rendering
+-File based routing ([] dynamic routes)
+
 
 ## Real-Time Auction Platform
 Full-stack auction system with live bidding using WebSockets.
@@ -52,7 +77,7 @@ Features:
 
 
 ### JavaScript / TypeScript Projects
-Smaller practice projects focusing on logic, functions and DOM manipulation.
+Pojects focusing on logic, functions and DOM manipulation.
 
 
 ## Currently Learning
