@@ -5,7 +5,7 @@
 
 I am a Frontend Developer student passionate about building interactive and real-time web applications.
 
-I enjoy working across the stack with a strong focus on clean UI, API integration, and structured code.
+I enjoy working stack with frontend, clean UI, API integration, and structured code.
 
 I also have a strong interest in AI and how it can be applied in modern web development to create smarter and more efficient applications.
 
@@ -25,7 +25,7 @@ Backend:
 -Express
 
 Database:
--MongoDB (endast om du faktiskt använt det i projekt)
+-MongoDB 
 
 API & Tools:
 -REST APIs
@@ -34,6 +34,16 @@ API & Tools:
 -LocalStorage
 
 ## Featured Projects
+
+## Portfolio Site
+Next.js, React, TypeScript, Vercel
+A responsive portfolio website focused on modern UI development and component architecture.
+
+Features:
+-Deployed on Vercel
+-File based routing
+-Reusable components with props
+-Context for theme (Dark/Light mode)
 
 ##  Fed Zoo App, Next.js / React
 Next.js application focused on API handling, state management and localStorage.
