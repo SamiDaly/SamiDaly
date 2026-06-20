@@ -7,15 +7,15 @@ I am a Frontend Developer student passionate about building interactive and real
 
 I enjoy working stack with frontend, clean UI, API integration, and structured code.
 
-I also have a strong interest in AI and how it can be applied in modern web development to create smarter and more efficient applications.
+I also have a strong interest in AI and how it can be applied in modern web development to create smarter applications.
 
 
 Tech Stack
 
 Frontend:
 -JavaScript / TypeScript
--React (Hooks, Components, State management)
--Next.js (App Router, routing, dynamic routes)
+-React (Hooks, State Management, Component Architecture)
+-Next.js (App Router, Server Components, Server Actions, Dynamic Routes)
 -HTML5 / CSS / SASS
 -Tailwind
 -Bootstrap
@@ -23,15 +23,20 @@ Frontend:
 Backend:
 -Node.js
 -Express
+-Authentication (JWT, Cookies, Password Hashing)
+-REST APIs
 
 Database:
 -MongoDB 
+-Mongoose
 
-API & Tools:
--REST APIs
+Tools:
+-Git & GitHub
 -Postman
 -WebSockets (Socket.io)
 -LocalStorage
+-Vite
+-Agile Team Development
 
 ## Featured Projects
 
@@ -90,14 +95,6 @@ Features:
 Pojects focusing on logic, functions and DOM manipulation.
 
 
-## Currently Learning
-
-- Next.js
-- React deeper concepts
-- State management
-- Clean architecture
-- Better backend structure
-
 
 ## Contact
 
@@ -105,8 +102,3 @@ Pojects focusing on logic, functions and DOM manipulation.
 - LinkedIn: https://www.linkedin.com/in/sami-daly-bb1a90272/
 
 
-## Fun Fact
-
-I enjoy working full-stack, but I have a strong passion for frontend development with a focus on clean, organized and user-friendly design.
-
-I’m also very interested in AI and how it can be used in modern web applications.
